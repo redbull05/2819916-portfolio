@@ -1,0 +1,1 @@
+I have learned how to use Github a little bit more than I thought we would learn for the purposes of this degree. It was quite nice to use HTML(a "language" I am already familiar with) in this school  environment. Although there are so many commands for git to know, I hope that by the end of the semester I will know them all. So far, Software Design is fun!!!
